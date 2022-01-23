@@ -1,6 +1,6 @@
 let stock= []
 
-fetch('js/stock.json')
+fetch('stock.json')
 .then(res=> res.json())
 .then(data=> {
     data.forEach(cake => {
