@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "nombre": "Moka",
+        "descripcion": "Torta de chocolate relleno de moka y cubierta con crema de moka.",
+        "imagen": "moka.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Dulce de Leche",
+        "descripcion": "Torta de vainilla relleno de crema de dulce de leche y nuez.",
+        "imagen": "dulceDleche.jpg"
+    },
+    {
+        "id": "3",
+        "nombre": "Fresa",
+        "descripcion": "Delicioso Torta de vainilla relleno con nata y fresas naturales.",
+        "imagen": "fresa.jpeg"
+    },
+    {
+        "id": "4",
+        "nombre": "Durazno",
+        "descripcion": "Suave Torta de vainilla con relleno de nata montada y duraznos en conserva de la casa.",
+        "imagen": "Durazno.jpeg"
+    },
+    {
+        "id": "5",
+        "nombre": "Chocolate con menta",
+        "descripcion": "Esponjosito Torta de chocolate con un delicioso relleno de chocolate obscuro y toques de menta.",
+        "imagen": "choco-menta.jpg"
+    },
+    {
+        "id": "6",
+        "nombre": "Trufa",
+        "descripcion": "Torta de chocolate relleno de ganache de trufa y cubierto con crema de chocolate.",
+        "imagen": "trufa.jpeg"
+    },
+    {
+        "id": "7",
+        "nombre": "Vainilla",
+        "descripcion": "Torta de vainilla bañado con relleno de crema blanca y canela.",
+        "imagen": "vainilla.jpeg"
+    },
+    {
+        "id": "8",
+        "nombre": "Marmoleado",
+        "descripcion": "Torta tipo panque marmoleado de chocolate y vainilla.",
+        "imagen": "marmolada.jpg"
+    },
+    {
+        "id": "9",
+        "nombre": "Fresas con chocolate",
+        "descripcion": "Torta de chocolate relleno de fresas naturales crema montada de fresa y chocolate.",
+        "imagen": "fresaChoco.jpeg"
+    },
+    {
+        "id": "10",
+        "nombre": "Frutos rojos",
+        "descripcion": "Delicioso Torta de vainilla con relleno de frutos rojos y crema de frambuesa.",
+        "imagen": "frutosRojos.jpeg"
+    },
+    {
+        "id": "11",
+        "nombre": "Brownie",
+        "descripcion": "Esponjosito brownie de chocolate con almandras y fresas.",
+        "imagen": "xocola.jpeg"
+    },
+    {
+        "id": "12",
+        "nombre": "Crujiente de avellana",
+        "descripcion": "Torta de chocolate elaborado con fina harina de avellana relleno de pralin� y trozos de avellana.",
+        "imagen": "avellana.jpeg"
+    },
+    {
+        "id": "13",
+        "nombre": "Manzana",
+        "descripcion": "Delicioso Torta de manzana, canela y relleno de fino queso crema.",
+        "imagen": "manzana.jpeg"
+    },
+    {
+        "id": "14",
+        "nombre": "Chocolate con Fresas",
+        "descripcion": "Torta elaborado con trozitos de chocolate y fresas",
+        "imagen": "chocoCha.jpeg"
+    },
+    {
+        "id": "15",
+        "nombre": "Oreo",
+        "descripcion": "Torta de chocolate con trozos de oreo y delicioso frosting sabor oreo.",
+        "imagen": "oreo.jpeg"
+    },
+    {
+        "id": "16",
+        "nombre": "Cheesecake frutos rojos",
+        "descripcion": "Torta de vainilla con toques de tres leches, relleno de fino queso crema y conserva de frutos rojos.",
+        "imagen": "cheesecake.jpeg"
+    },
+    {
+        "id": "17",
+        "nombre": "Napolitano",
+        "descripcion": "Torta de chocolate vainilla y fresa con deliciosos rellenos de cream cheese de vainilla fresa y chocolate.",
+        "imagen": "napo.jpg"
+    },
+    {
+        "id": "18",
+        "nombre": "Cafe",
+        "descripcion": "Torta de vainilla con delicados toques de café expreso relleno de crema de café.",
+        "imagen": "cafe.jpeg"
+    }
+]

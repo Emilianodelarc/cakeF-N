@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'ClarksonScript-Regular';
+    src: url('../fonts/ClarksonScript-Regular.otf');
+  }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imgBake{
+    background-size: contain;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: calc(100% - 691px);
+    width: 100%;
+    height: 495px;
+    transition: ease all 0.3s;
+}
+
+.colorPred{
+    display: block;
+    width: 100%;   
+    height: 361px;
+    background-color: #f0c4b9;
+}
+.title{
+    position: relative;
+    text-align: center;
+    top: 13px;
+    font-family: ClarksonScript-Regular;
+    font-size: 145px;
+}
+.titleS{
+    letter-spacing: 2px;
+}
+#contenedor-productos{
+    margin-top: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    align-items: center;
+}
+.card-img-top{
+    width: 100%;
+    height: 400px;
+}
+
+
+/* CahtBot */
+
+
+  df-messenger {
+   --df-messenger-bot-message: #878fac;
+   --df-messenger-button-titlebar-color: #f0c4b9;
+   --df-messenger-chat-background-color: #fafafa;
+   --df-messenger-font-color: white;
+   --df-messenger-send-icon: #878fac;
+   --df-messenger-user-message: #479b3d;
+  }
+ 
