@@ -20,7 +20,7 @@ function mostrar(array){
             
         
         <div class="card border-secondary mb-3">
-          <img src="../img/${item.imagen}" class="card-img-top" alt="...">
+          <img src="img/${item.imagen}" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">${item.nombre}</h5>
             <p class="card-text">${item.descripcion}</p>
